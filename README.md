@@ -1,4 +1,4 @@
-#DecentralID#
+**DecentralID**
 
 **OVERVIEW**
 DecentralID is a decentralized identity solution designed to empower users with full control over their digital identities. Built on blockchain technology, DecentralID offers a secure, privacy-focused, and user-friendly platform for managing and verifying credentials in a decentralized ecosystem.
@@ -25,6 +25,7 @@ Verifier Module: For verifying credentials shared by users.
 Blockchain Integration: Leveraging blockchain networks for secure and immutable storage.
 
 **CONTRIBUTING**
+
 We welcome contributions to DecentralID! To get started:
 
 Fork the repository.
@@ -33,19 +34,21 @@ Submit a pull request with a detailed explanation.
 For detailed guidelines, refer to CONTRIBUTING.md.
 
 **LICENSE**
+
 This project is licensed under the MIT License.
 
 SUPPORT
 If you have any questions or issues, please contact us:
 
 Email: charlesigbe@gmail.com
+
 Discord: DecentralID Community
 
-ROADMAP
+**ROADMAP**
  Initial release with identity wallet and credential management.
  Support for multi-chain integration.
  Mobile app for iOS and Android.
  Advanced analytics for credential issuers.i
 
-ACKNOWLEDGEMENTS
+**ACKNOWLEDGEMENTS**
 We thank the Web3 community and open-source contributors for their inspiration and support.
