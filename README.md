@@ -1,4 +1,4 @@
-#DecentralID
+#DecentralID#
 
 **OVERVIEW**
 DecentralID is a decentralized identity solution designed to empower users with full control over their digital identities. Built on blockchain technology, DecentralID offers a secure, privacy-focused, and user-friendly platform for managing and verifying credentials in a decentralized ecosystem.
